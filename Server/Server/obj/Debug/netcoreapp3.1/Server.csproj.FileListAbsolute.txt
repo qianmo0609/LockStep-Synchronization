@@ -1,0 +1,13 @@
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\UnityWorkSpace\LockStep Sync\LockStep-Synchronization\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
